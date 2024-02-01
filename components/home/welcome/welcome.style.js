@@ -23,6 +23,7 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     marginTop: SIZES.large,
     height: 50,
+    marginBottom: SIZES.small,
   },
   searchWrapper: {
     flex: 1,
